@@ -1,0 +1,1 @@
+@main def greet() = println("im salah, nice to meet you")
