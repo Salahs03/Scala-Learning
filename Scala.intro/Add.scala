@@ -1,0 +1,1 @@
+@main def add() = println(2 + 3)
