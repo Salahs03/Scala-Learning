@@ -1,0 +1,1 @@
+@main def welcome() = println("I am learning Scala!")
